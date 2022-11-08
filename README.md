@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abigail217
+- 👋 Hi, I’m Abigail Animah Owusu
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently studying computer science in Ashesi University 
 - 📫 you can reach me via mail, abigailowusu296@gmail.com.
