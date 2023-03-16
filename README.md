@@ -23,8 +23,8 @@
 # 
 
 # My Stats🔥 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar-basheer&theme=algolia)](https://git.io/streak-stats)
-[![Omar Basheer's Github Stats](https://github-readme-stats.vercel.app/api?username=omar-basheer&show_icons=true&theme=algolia)](https://github.com/omar-basheer/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-basheer&layout=compact&theme=algolia)](https://github.com/omar-basheer/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abigail-Owusu&theme=algolia)](https://git.io/streak-stats)
+[![Abigail Owusu's Stats Github Stats](https://github-readme-stats.vercel.app/api?username=Abigail-Owusu&show_icons=true&theme=algolia)](https://github.com/Abigail-Owusu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abigail-Owusu&layout=compact&theme=algolia)](https://github.com/Abigail-Owusu/github-readme-stats)
 
 
